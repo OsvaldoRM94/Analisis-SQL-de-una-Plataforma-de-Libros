@@ -87,6 +87,6 @@ Contiene reseñas escritas por los usuarios.
 
 - Todas las consultas fueron realizadas exclusivamente con SQL.
 - Se utilizó `pandas` únicamente para mostrar y almacenar los resultados.
-- Este proyecto forma parte del bootcamp de analista de datos de [TripleTen](https://tripleten.com).
+
 
 ---
